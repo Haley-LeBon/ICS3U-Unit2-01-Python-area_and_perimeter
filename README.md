@@ -1,3 +1,3 @@
 # ICS3U-Unit2-01-Python-area_and_perimeter
 
-[![Mr Coxall's Super Linter](https://github.com/Haley-LeBonICS3U-Unit2-01-Python-area_and_perimeter/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Haley-LeBon/ICS3U-Unit2-01-Python-area_and_perimeter/actions/)
+[![Mr Coxall's Super Linter](https://github.com/Haley-LeBon/ICS3U-Unit2-01-Python-area_and_perimeter/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Haley-LeBon/ICS3U-Unit2-01-Python-area_and_perimeter/actions/)
